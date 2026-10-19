@@ -1,0 +1,293 @@
+{
+  "notebooks": 31,
+  "code_cells": 92,
+  "markdown_cells": 142,
+  "pre_rendered_images": 21,
+  "html_table_or_outputs": 16,
+  "stream_outputs": 64,
+  "embedded_error_outputs": 0,
+  "json_valid": true,
+  "code_compile_errors": [],
+  "notebook_output_summary": [
+    {
+      "path": "1. Foundations/01_ml_workflow_and_problem_framing.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 5,
+      "images": 0,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "1. Foundations/02_python_numpy_pandas_ml_refresher.ipynb",
+      "code_cells": 5,
+      "markdown_cells": 6,
+      "images": 0,
+      "html": 0,
+      "streams": 5,
+      "errors": 0
+    },
+    {
+      "path": "1. Foundations/03_visual_eda_and_baselines.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 4,
+      "images": 2,
+      "html": 1,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "2. Data Preparation & Feature Engineering/04_missing_values_outliers_and_data_quality.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 5,
+      "images": 1,
+      "html": 0,
+      "streams": 4,
+      "errors": 0
+    },
+    {
+      "path": "2. Data Preparation & Feature Engineering/05_encoding_scaling_and_feature_engineering.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 5,
+      "images": 0,
+      "html": 0,
+      "streams": 4,
+      "errors": 0
+    },
+    {
+      "path": "2. Data Preparation & Feature Engineering/06_train_validation_test_splits_and_leakage.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 6,
+      "images": 0,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "2. Data Preparation & Feature Engineering/07_preprocessing_pipelines_and_columntransformer.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/08_linear_regression_and_regularization.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 5,
+      "images": 1,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/09_logistic_regression_and_probabilities.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 1,
+      "html": 2,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/10_decision_trees_random_forests.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 4,
+      "images": 2,
+      "html": 0,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/11_gradient_boosting_xgboost_lightgbm_catboost.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 5,
+      "images": 0,
+      "html": 1,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/12_svm_knn_naive_bayes.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 1,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/13_clustering_kmeans_dbscan.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 1,
+      "html": 0,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/14_pca_dimensionality_reduction_and_embeddings.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 2,
+      "html": 0,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/15_model_evaluation_metrics_imbalance_thresholds.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 5,
+      "images": 1,
+      "html": 1,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "3. Classical Machine Learning/16_hyperparameter_tuning_and_model_selection.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 1,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "4. Deep Learning & LLM Foundations/17_neural_networks_forward_and_backpropagation.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 5,
+      "images": 2,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "4. Deep Learning & LLM Foundations/18_cnn_rnn_and_sequence_basics.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 5,
+      "images": 1,
+      "html": 0,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "4. Deep Learning & LLM Foundations/19_transformers_attention_and_embeddings.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 5,
+      "images": 2,
+      "html": 0,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "4. Deep Learning & LLM Foundations/20_pretrained_models_finetuning_prompting_and_rag.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 6,
+      "images": 0,
+      "html": 0,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "5. MLOps & Production/21_save_load_and_reproducible_inference.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 5,
+      "images": 0,
+      "html": 0,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "5. MLOps & Production/22_serve_a_model_with_fastapi.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 0,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "5. MLOps & Production/23_experiment_tracking_and_mlflow.ipynb",
+      "code_cells": 1,
+      "markdown_cells": 5,
+      "images": 0,
+      "html": 1,
+      "streams": 0,
+      "errors": 0
+    },
+    {
+      "path": "5. MLOps & Production/24_pipelines_ci_cd_and_model_drift.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 5,
+      "images": 1,
+      "html": 1,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "6. Emerging & Responsible AI/25_ai_agents_and_tool_calling_basics.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 0,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "6. Emerging & Responsible AI/26_responsible_ai_fairness_interpretability_privacy.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 4,
+      "images": 1,
+      "html": 1,
+      "streams": 0,
+      "errors": 0
+    },
+    {
+      "path": "6. Emerging & Responsible AI/27_llmops_rag_evaluation_and_governance.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 1,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "6. Emerging & Responsible AI/28_specialist_tracks_cv_nlp_audio.ipynb",
+      "code_cells": 2,
+      "markdown_cells": 4,
+      "images": 1,
+      "html": 0,
+      "streams": 1,
+      "errors": 0
+    },
+    {
+      "path": "7. Portfolio Projects/29_portfolio_project_customer_churn.ipynb",
+      "code_cells": 4,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 2,
+      "streams": 3,
+      "errors": 0
+    },
+    {
+      "path": "7. Portfolio Projects/30_portfolio_project_imbalanced_fraud_detection.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 2,
+      "html": 2,
+      "streams": 2,
+      "errors": 0
+    },
+    {
+      "path": "7. Portfolio Projects/31_portfolio_project_local_rag_assistant.ipynb",
+      "code_cells": 3,
+      "markdown_cells": 4,
+      "images": 0,
+      "html": 1,
+      "streams": 3,
+      "errors": 0
+    }
+  ],
+  "passed": true
+}

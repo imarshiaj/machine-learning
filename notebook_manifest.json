@@ -1,0 +1,250 @@
+[
+  {
+    "order": 1,
+    "folder": "1. Foundations",
+    "file": "01_ml_workflow_and_problem_framing.ipynb",
+    "title": "Machine Learning Workflow and Problem Framing",
+    "markdown_cells": 5,
+    "code_cells": 3
+  },
+  {
+    "order": 2,
+    "folder": "1. Foundations",
+    "file": "02_python_numpy_pandas_ml_refresher.ipynb",
+    "title": "Python, NumPy, and pandas Refresher for ML",
+    "markdown_cells": 6,
+    "code_cells": 5
+  },
+  {
+    "order": 3,
+    "folder": "1. Foundations",
+    "file": "03_visual_eda_and_baselines.ipynb",
+    "title": "Visual EDA and Simple Baselines",
+    "markdown_cells": 4,
+    "code_cells": 4
+  },
+  {
+    "order": 4,
+    "folder": "2. Data Preparation & Feature Engineering",
+    "file": "04_missing_values_outliers_and_data_quality.ipynb",
+    "title": "Missing Values, Outliers, and Data Quality",
+    "markdown_cells": 5,
+    "code_cells": 4
+  },
+  {
+    "order": 5,
+    "folder": "2. Data Preparation & Feature Engineering",
+    "file": "05_encoding_scaling_and_feature_engineering.ipynb",
+    "title": "Encoding, Scaling, and Feature Engineering",
+    "markdown_cells": 5,
+    "code_cells": 4
+  },
+  {
+    "order": 6,
+    "folder": "2. Data Preparation & Feature Engineering",
+    "file": "06_train_validation_test_splits_and_leakage.ipynb",
+    "title": "Train, Validation, Test Splits, Cross-Validation, and Leakage",
+    "markdown_cells": 6,
+    "code_cells": 3
+  },
+  {
+    "order": 7,
+    "folder": "2. Data Preparation & Feature Engineering",
+    "file": "07_preprocessing_pipelines_and_columntransformer.ipynb",
+    "title": "Preprocessing Pipelines and ColumnTransformer",
+    "markdown_cells": 4,
+    "code_cells": 4
+  },
+  {
+    "order": 8,
+    "folder": "3. Classical Machine Learning",
+    "file": "08_linear_regression_and_regularization.ipynb",
+    "title": "Linear Regression and Regularization",
+    "markdown_cells": 5,
+    "code_cells": 4
+  },
+  {
+    "order": 9,
+    "folder": "3. Classical Machine Learning",
+    "file": "09_logistic_regression_and_probabilities.ipynb",
+    "title": "Logistic Regression and Probabilistic Classification",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 10,
+    "folder": "3. Classical Machine Learning",
+    "file": "10_decision_trees_random_forests.ipynb",
+    "title": "Decision Trees and Random Forests",
+    "markdown_cells": 4,
+    "code_cells": 4
+  },
+  {
+    "order": 11,
+    "folder": "3. Classical Machine Learning",
+    "file": "11_gradient_boosting_xgboost_lightgbm_catboost.ipynb",
+    "title": "Gradient Boosting and Modern Boosting Libraries",
+    "markdown_cells": 5,
+    "code_cells": 2
+  },
+  {
+    "order": 12,
+    "folder": "3. Classical Machine Learning",
+    "file": "12_svm_knn_naive_bayes.ipynb",
+    "title": "SVM, K-Nearest Neighbors, and Naive Bayes",
+    "markdown_cells": 4,
+    "code_cells": 2
+  },
+  {
+    "order": 13,
+    "folder": "3. Classical Machine Learning",
+    "file": "13_clustering_kmeans_dbscan.ipynb",
+    "title": "Clustering with K-Means and DBSCAN",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 14,
+    "folder": "3. Classical Machine Learning",
+    "file": "14_pca_dimensionality_reduction_and_embeddings.ipynb",
+    "title": "PCA, Dimensionality Reduction, and Embeddings",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 15,
+    "folder": "3. Classical Machine Learning",
+    "file": "15_model_evaluation_metrics_imbalance_thresholds.ipynb",
+    "title": "Model Evaluation, Imbalanced Data, Thresholds, and Calibration",
+    "markdown_cells": 5,
+    "code_cells": 3
+  },
+  {
+    "order": 16,
+    "folder": "3. Classical Machine Learning",
+    "file": "16_hyperparameter_tuning_and_model_selection.ipynb",
+    "title": "Hyperparameter Tuning and Model Selection",
+    "markdown_cells": 4,
+    "code_cells": 2
+  },
+  {
+    "order": 17,
+    "folder": "4. Deep Learning & LLM Foundations",
+    "file": "17_neural_networks_forward_and_backpropagation.ipynb",
+    "title": "Neural Network Fundamentals: Forward Pass and Backpropagation",
+    "markdown_cells": 5,
+    "code_cells": 4
+  },
+  {
+    "order": 18,
+    "folder": "4. Deep Learning & LLM Foundations",
+    "file": "18_cnn_rnn_and_sequence_basics.ipynb",
+    "title": "CNNs and RNNs: A Gentle Introduction",
+    "markdown_cells": 5,
+    "code_cells": 2
+  },
+  {
+    "order": 19,
+    "folder": "4. Deep Learning & LLM Foundations",
+    "file": "19_transformers_attention_and_embeddings.ipynb",
+    "title": "Transformers, Attention, and Embeddings",
+    "markdown_cells": 5,
+    "code_cells": 3
+  },
+  {
+    "order": 20,
+    "folder": "4. Deep Learning & LLM Foundations",
+    "file": "20_pretrained_models_finetuning_prompting_and_rag.ipynb",
+    "title": "Pretrained Models, Fine-Tuning, Prompting, and RAG",
+    "markdown_cells": 6,
+    "code_cells": 2
+  },
+  {
+    "order": 21,
+    "folder": "5. MLOps & Production",
+    "file": "21_save_load_and_reproducible_inference.ipynb",
+    "title": "Model Persistence and Reproducible Inference",
+    "markdown_cells": 5,
+    "code_cells": 2
+  },
+  {
+    "order": 22,
+    "folder": "5. MLOps & Production",
+    "file": "22_serve_a_model_with_fastapi.ipynb",
+    "title": "Serving a Model with FastAPI",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 23,
+    "folder": "5. MLOps & Production",
+    "file": "23_experiment_tracking_and_mlflow.ipynb",
+    "title": "Experiment Tracking, MLflow, and Model Registry",
+    "markdown_cells": 5,
+    "code_cells": 1
+  },
+  {
+    "order": 24,
+    "folder": "5. MLOps & Production",
+    "file": "24_pipelines_ci_cd_and_model_drift.ipynb",
+    "title": "Pipelines, CI/CD, and Model Drift Monitoring",
+    "markdown_cells": 5,
+    "code_cells": 3
+  },
+  {
+    "order": 25,
+    "folder": "6. Emerging & Responsible AI",
+    "file": "25_ai_agents_and_tool_calling_basics.ipynb",
+    "title": "AI Agents and Tool Calling: Safe Foundations",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 26,
+    "folder": "6. Emerging & Responsible AI",
+    "file": "26_responsible_ai_fairness_interpretability_privacy.ipynb",
+    "title": "Responsible ML: Fairness, Interpretability, and Privacy",
+    "markdown_cells": 4,
+    "code_cells": 2
+  },
+  {
+    "order": 27,
+    "folder": "6. Emerging & Responsible AI",
+    "file": "27_llmops_rag_evaluation_and_governance.ipynb",
+    "title": "LLMOps: RAG Evaluation, Prompt Versions, and Governance",
+    "markdown_cells": 4,
+    "code_cells": 2
+  },
+  {
+    "order": 28,
+    "folder": "6. Emerging & Responsible AI",
+    "file": "28_specialist_tracks_cv_nlp_audio.ipynb",
+    "title": "Specialist Tracks: Computer Vision, NLP, and Audio",
+    "markdown_cells": 4,
+    "code_cells": 2
+  },
+  {
+    "order": 29,
+    "folder": "7. Portfolio Projects",
+    "file": "29_portfolio_project_customer_churn.ipynb",
+    "title": "Portfolio Project 1: Customer Churn Classification",
+    "markdown_cells": 4,
+    "code_cells": 4
+  },
+  {
+    "order": 30,
+    "folder": "7. Portfolio Projects",
+    "file": "30_portfolio_project_imbalanced_fraud_detection.ipynb",
+    "title": "Portfolio Project 2: Imbalanced Fraud Detection",
+    "markdown_cells": 4,
+    "code_cells": 3
+  },
+  {
+    "order": 31,
+    "folder": "7. Portfolio Projects",
+    "file": "31_portfolio_project_local_rag_assistant.ipynb",
+    "title": "Portfolio Project 3: A Small Local RAG Assistant",
+    "markdown_cells": 4,
+    "code_cells": 3
+  }
+]
